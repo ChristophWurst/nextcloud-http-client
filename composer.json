@@ -9,7 +9,9 @@
             "email": "christoph@winzerhof-wurst.at"
         }
     ],
-    "require": {},
+    "require": {
+        "christophwurst/nextcloud": "19.0.0.x-dev"
+    },
     "provide": {
         "php-http/async-client-implementation": "1.0",
         "php-http/client-implementation": "1.0",
