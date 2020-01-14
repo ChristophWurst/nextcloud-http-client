@@ -1,0 +1,18 @@
+{
+    "name": "christophwurst/nextcloud-http-client",
+    "description": "HTTPlug and PSR7 adapter for Nextcloud",
+    "type": "meta",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christoph Wurst",
+            "email": "christoph@winzerhof-wurst.at"
+        }
+    ],
+    "require": {},
+    "provide": {
+        "php-http/async-client-implementation": "1.0",
+        "php-http/client-implementation": "1.0",
+        "psr/http-client-implementation": "1.0"
+    }
+}
