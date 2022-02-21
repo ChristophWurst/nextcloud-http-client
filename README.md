@@ -1,6 +1,6 @@
 # nextcloud-http-client
 
-HTTPlug and PSR7 adapter for Nextcloud 19 and later.
+HTTPlug and PSR7 adapter for Nextcloud 20 and later.
 
 Add this package to your Nextcloud app if another library needs an HTTP client implementation.
 
