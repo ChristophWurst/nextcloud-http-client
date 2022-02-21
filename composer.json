@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "christophwurst/nextcloud": "^19.0.0-dev"
+        "christophwurst/nextcloud": ">=19.0.0 <25.0.0"
     },
     "provide": {
         "php-http/async-client-implementation": "1.0",
